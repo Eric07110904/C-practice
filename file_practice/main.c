@@ -4,7 +4,8 @@
 int main(){
     /* read file */
     FILE *fptr;
-    fptr = fopen("./data.txt", "r");
+    fptr = fopen("./data2.txt", "r");
+    
     char buffer[1024];
     fread(buffer, 1024, 1, fptr);
     printf("%s \n", buffer);
