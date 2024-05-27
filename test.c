@@ -12,10 +12,10 @@ void hello(){
 }
 int main(){
 
-    printf("hello world\n");
+    printf("hello world111111111\n");
     printf("\n")
-    printf("hello world2\n");
-    printf("\n");
+    printf("hello world222222222\n");
+    printf("\n")
 
 
     return 0;
