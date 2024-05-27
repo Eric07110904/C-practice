@@ -4,6 +4,9 @@
 void bark_A(){
     printf("bark bark bark A A A ");
 }
+void hello(){
+    printf("hello");
+}
 int main(){
 
     printf("hello world\n");
