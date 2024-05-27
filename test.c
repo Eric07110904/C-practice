@@ -13,7 +13,9 @@ void hello(){
 int main(){
 
     printf("hello world\n");
+    printf("\n")
     printf("hello world2\n");
+    printf("\n");
 
 
     return 0;
