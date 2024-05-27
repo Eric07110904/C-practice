@@ -12,8 +12,8 @@ void hello(){
 }
 int main(){
 
-    printf("hello world\n");
-    printf("hello world2\n");
+    printf("hello world111111111\n");
+    printf("hello world222222222\n");
 
 
     return 0;
