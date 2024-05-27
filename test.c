@@ -7,6 +7,9 @@ void bark_A(){
 void bark_B(){
     printf("bark bark bark B B B ");
 }
+void hello(){
+    printf("hello");
+}
 int main(){
 
     printf("hello world\n");
