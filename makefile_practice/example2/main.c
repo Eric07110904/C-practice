@@ -6,5 +6,8 @@
 int main(){
     print_a();
     print_b();    
+    printf("----------------\n");
+    printf("it is bug fix branch ");
+    printf("----------------\n");
     return 0;
 }
