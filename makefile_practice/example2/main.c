@@ -5,7 +5,12 @@
 
 int main(){
     print_a();
-    print_b();    
+    print_b();  
+    int connection = 10;  
+
+
+
+    
     printf("----------------\n");
     printf("it is bug fix branch ");
     printf("----------------\n");
