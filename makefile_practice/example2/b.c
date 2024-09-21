@@ -3,4 +3,11 @@
 
 void print_b(){
     printf("B\n");
+    printf("B\n");
+    printf("B\n");
+    printf("B\n");
+
+    printf("B\n");printf("B\n");
+    printf("B\n");
+    printf("B\n");
 }
