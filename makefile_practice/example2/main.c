@@ -12,7 +12,7 @@ int main(){
 
     
     printf("----------------\n");
-    printf("it is bug fix branch!");
+    printf("iaaaaaa!");
     printf("----------------\n");
     printf("connection2 connection_new");
     return 0;
